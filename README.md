@@ -125,9 +125,9 @@ ToolName | Comments | Reference
 [MAFFT](https://mafft.cbrc.jp/alignment/software/) | multiple sequence alignment | [Katoh & Standley, 2013](https://doi.org/10.1093/molbev/mst010)
 [MUSCLE](https://www.drive5.com/muscle/) | multiple sequence alignment | [Edgar, 2022](https://doi.org/10.1038/s41467-022-34630-w)
 [IQ-TREE2](https://doi.org/10.1093/molbev/msaa015) | phylogenetic tree construction | [Minh et al., 2020](https://doi.org/10.1093/molbev/msaa131)
-[FastTree]() | | 
-[RAxML-NG]() | | 
-[SHOOT]() | | 
+[FastTree](http://www.phylo.org/index.php/tools/fasttree_xsede.html) | phylogenetic tree construction | [Price et al., 2010](https://doi.org/10.1371%2Fjournal.pone.0009490)
+[RAxML-NG](https://github.com/amkozlov/raxml-ng) | phylogenetic tree construction | [Kozlov et al., 2019](https://doi.org/10.1093/bioinformatics/btz305)
+[SHOOT](https://www.shoot.bio/) | phylogenetic placement of sequence | [Emms & Kelly, 2022](https://doi.org/10.1186/s13059-022-02652-8)
 [iTOL]() | | 
 [JustOrthologs]() | | 
 [SwiftOrtho]() | | 
