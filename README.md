@@ -122,9 +122,9 @@ ToolName | Comments | Reference
 
 ToolName | Comments | Reference
 --- | --- | ---
-[MAFFT]() | | 
-[MUSCLE]() | | 
-[IQ-TREE2]() | | 
+[MAFFT](https://mafft.cbrc.jp/alignment/software/) | multiple sequence alignment | [Katoh & Standley, 2013](https://doi.org/10.1093/molbev/mst010)
+[MUSCLE](https://www.drive5.com/muscle/) | multiple sequence alignment | [Edgar, 2022](https://doi.org/10.1038/s41467-022-34630-w)
+[IQ-TREE2](https://doi.org/10.1093/molbev/msaa015) | phylogenetic tree construction | [Minh et al., 2020](https://doi.org/10.1093/molbev/msaa131)
 [FastTree]() | | 
 [RAxML-NG]() | | 
 [SHOOT]() | | 
