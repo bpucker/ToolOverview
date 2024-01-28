@@ -34,7 +34,8 @@ ToolName | Comments | Reference
 [Shasta](https://github.com/paoloshasta/shasta) | long read assembler (fast) | [Shafin et al., 2020](https://doi.org/10.1038/s41587-020-0503-6)
 [Flye](https://github.com/fenderglass/Flye) | long read assembler (high memory requirements) | [Kolmogorov et al., 2019](https://doi.org/10.1038/s41587-019-0072-8)
 [miniasm](https://github.com/lh3/miniasm) | long read assembler | [Li, 2018](https://doi.org/10.1093/bioinformatics/btw152)
-QUOD
+[QUAST](https://github.com/ablab/quast) | assembly statistics calculation | [Gurevich et al., 2013](https://doi.org/10.1093%2Fbioinformatics%2Fbtt086)
+
 
 ## Repeat masking & annotation
 
@@ -55,8 +56,13 @@ ToolName | Comments | Reference
 
 
 ## Variant calling and annotation
-SnpEff
-NAVIP
+[BWA MEM](https://github.com/lh3/bwa) | short read mapping | [Li, 2013](https://doi.org/10.48550/arXiv.1303.3997)
+[GATK](https://gatk.broadinstitute.org/hc/en-us) | short read variant calling | Van der Auwera GA & O'Connor BD. (2020). Genomics in the Cloud: Using Docker, GATK, and WDL in Terra (1st Edition). O'Reilly Media.
+[SVIM2](https://github.com/eldariont/svim) | long read variant calling | [Heller & Vingron, 2019](https://doi.org/10.1093/bioinformatics/btz041)
+[Sniffles2](https://github.com/fritzsedlazeck/Sniffles) | long read variant calling | [Smolka et al., 2024](https://doi.org/10.1038/s41587-023-02024-y)
+[SnpEff](http://pcingola.github.io/SnpEff/) | variant impact prediction | [Cingolani et al., 2012](https://doi.org/10.4161%2Ffly.19695)
+[NAVIP](https://github.com/bpucker/NAVIP) | variant impact prediction | [Baasner et al., 2019](https://doi.org/10.1101/596718)
+
 
 ## Gene prediction
 
