@@ -29,11 +29,39 @@ ToolName | Comments | Reference
 
 ## Repeat masking & annotation
 
+ToolName | Comments | Reference
+--- | --- | ---
+RepeatMasker | | 
+EDTA/panEDTA | | 
+
+
 ## Read mapping
+
+ToolName | Comments | Reference
+--- | --- | ---
+STAR | | 
+HISAT2 | | 
+minimap2 | | 
+
 
 ## Gene prediction
 
+ToolName | Comments | Reference
+--- | --- | ---
+BRAKER3 | | 
+Augustus | | 
+GeMoMA | | 
+TSEBRA | | 
+
+
 ## Comparative genomics
+
+ToolName | Comments | Reference
+--- | --- | ---
+MCscan | | 
+TBtools-II | | 
+TOGA | | 
+
 
 ## Functional annotation
 
