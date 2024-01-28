@@ -129,8 +129,8 @@ ToolName | Comments | Reference
 [RAxML-NG](https://github.com/amkozlov/raxml-ng) | phylogenetic tree construction | [Kozlov et al., 2019](https://doi.org/10.1093/bioinformatics/btz305)
 [SHOOT](https://www.shoot.bio/) | phylogenetic placement of sequence | [Emms & Kelly, 2022](https://doi.org/10.1186/s13059-022-02652-8)
 [iTOL](https://itol.embl.de/) | phylogenetic tree visualization | [Letunic & Bork, 2021](https://doi.org/10.1093/nar/gkab301)
-[JustOrthologs]() | | 
-[SwiftOrtho]() | | 
+[JustOrthologs](https://github.com/ridgelab/JustOrthologs) | ortholog identification | [Miller et al., 2019](https://doi.org/10.1093/bioinformatics/bty669)
+[SwiftOrtho](https://github.com/Rinoahu/SwiftOrtho) | ortholog identification | [Hu & Friedberg, 2019](https://doi.org/10.1093/gigascience/giz118)
 
 
 ## Helpful databases
