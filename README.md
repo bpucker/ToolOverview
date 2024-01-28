@@ -17,9 +17,12 @@ guppy | ONT basecalling | [ONT](https://community.nanoporetech.com/docs/prepare/
 
 
 ## Genome size estimation
-MGSE
-GenomeScope
-findGSE
+ToolName | Comments | Reference
+--- | --- | ---
+[MGSE](https://github.com/bpucker/MGSE) | mapping-based | [Pucker, 2019](https://doi.org/10.1101/607390)
+[GenomeScope2](https://github.com/schatzlab/genomescope) | k-mer-based | [Ranallo-Benavidez, 2020](https://doi.org/10.1038/s41467-020-14998-3)
+[findGSE](https://github.com/schneebergerlab/findGSE) | k-mer-based | [Sun et al., 2017](https://doi.org/10.1093/bioinformatics/btx637)
+[gnodes](http://arthropods.eugenes.org/EvidentialGene/other/gnodes/) | mapping-based | [Gilbert, 2022](https://doi.org/10.1101/2022.05.13.491861)
 
 
 ## Genome sequence assembly
