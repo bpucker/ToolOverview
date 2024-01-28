@@ -40,9 +40,9 @@ panEDTA | pangenome repeat annotation | [Ou et al., 2022](https://doi.org/10.110
 
 ToolName | Comments | Reference
 --- | --- | ---
-STAR | | 
-HISAT2 | | 
-minimap2 | | 
+[STAR](https://github.com/alexdobin/STAR) | RNA-seq read mapping | [Dobin et al., 2013](https://doi.org/10.1093%2Fbioinformatics%2Fbts635)
+[HISAT2](http://daehwankimlab.github.io/hisat2/) | RNA-seq read mapping | [Kim et al., 2019](https://doi.org/10.1038/s41587-019-0201-4)
+[minimap2](https://github.com/lh3/minimap2) | long read mapping | [Li, 2018](https://doi.org/10.1093/bioinformatics/bty191)
 
 
 ## Gene prediction
