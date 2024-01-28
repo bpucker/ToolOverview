@@ -49,11 +49,11 @@ ToolName | Comments | Reference
 
 ToolName | Comments | Reference
 --- | --- | ---
-BRAKER3 | | 
-Augustus | | 
-GeMoMA | | 
-TSEBRA | | 
-
+[BRAKER3](https://github.com/Gaius-Augustus/BRAKER) | protein coding gene prediction | [Gabriel et al., 2023](https://doi.org/10.1101/2023.06.10.544449)
+[Augustus](https://github.com/Gaius-Augustus/Augustus) | protein coding gene prediction | [Stanke et al., 2006](https://doi.org/10.1093/nar/gkl200)
+[GeMoMa](http://www.jstacs.de/index.php/GeMoMa) | protein coding gene prediction | [Keilwagen et al., 2019](https://doi.org/10.1007/978-1-4939-9173-0_9)
+[TSEBRA]() |  | 
+tRNA-scanSE2 |  | 
 
 ## Comparative genomics
 
