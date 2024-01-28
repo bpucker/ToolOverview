@@ -23,8 +23,8 @@ ToolName | Comments | Reference
 [HiCanu](https://github.com/marbl/canu) | long read assembler (resource intensive) | [Nurk et al., 2020](https://doi.org/10.1101%2Fgr.263566.120)
 [NextDenovo2](https://github.com/Nextomics/NextDenovo) | long read assembler | GitHub repository
 [Shasta](https://github.com/paoloshasta/shasta) | long read assembler (fast) | [Shafin et al., 2020](https://doi.org/10.1038/s41587-020-0503-6)
-[Flye]() | long read assembler (high memory requirements) | 
-[miniasm]() | long read assembler | 
+[Flye](https://github.com/fenderglass/Flye) | long read assembler (high memory requirements) | [Kolmogorov et al., 2019](https://doi.org/10.1038/s41587-019-0072-8)
+[miniasm](https://github.com/lh3/miniasm) | long read assembler | [Li, 2018](https://doi.org/10.1093/bioinformatics/btw152)
 
 
 ## Repeat masking & annotation
