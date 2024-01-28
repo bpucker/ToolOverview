@@ -139,8 +139,8 @@ ToolName | Comments | Reference
 --- | --- | ---
 [jbrowse](https://jbrowse.org/jb2/) | genome browser | [Diesh et al., 2023](https://doi.org/10.1186/s13059-023-02914-z)
 [gbrowse](https://github.com/GMOD/GBrowse) | genome browser | [Stein, 2013](https://doi.org/10.1093%2Fbib%2Fbbt001)
-[TAIR]() | | 
-[Phytozome]() | | 
+[TAIR](https://www.arabidopsis.org/) | Arabidopsis database | [Berardini et al., 2015](https://doi.org/10.1002/dvg.22877)
+[Phytozome](https://phytozome-next.jgi.doe.gov/) | plant genome database | [Goodstein et al., 2012](https://doi.org/10.1093%2Fnar%2Fgkr944)
 [JGI Plant Gene Atlas]() | | 
 [SRA]() | | 
 [GEO]() | | 
