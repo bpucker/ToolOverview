@@ -57,7 +57,7 @@ ToolName | Comments | Reference
 
 ## Variant calling and annotation
 [BWA MEM](https://github.com/lh3/bwa) | short read mapping | [Li, 2013](https://doi.org/10.48550/arXiv.1303.3997)
-[GATK](https://gatk.broadinstitute.org/hc/en-us) | short read variant calling | Van der Auwera GA & O'Connor BD. (2020). Genomics in the Cloud: Using Docker, GATK, and WDL in Terra (1st Edition). O'Reilly Media.
+[GATK](https://gatk.broadinstitute.org/hc/en-us) | short read variant calling | [Van der Auwera GA & O'Connor BD., 2020](https://www.oreilly.com/library/view/genomics-in-the/9781491975183/)
 [SVIM2](https://github.com/eldariont/svim) | long read variant calling | [Heller & Vingron, 2019](https://doi.org/10.1093/bioinformatics/btz041)
 [Sniffles2](https://github.com/fritzsedlazeck/Sniffles) | long read variant calling | [Smolka et al., 2024](https://doi.org/10.1038/s41587-023-02024-y)
 [SnpEff](http://pcingola.github.io/SnpEff/) | variant impact prediction | [Cingolani et al., 2012](https://doi.org/10.4161%2Ffly.19695)
@@ -73,7 +73,7 @@ ToolName | Comments | Reference
 [GeMoMa](http://www.jstacs.de/index.php/GeMoMa) | protein coding gene prediction | [Keilwagen et al., 2019](https://doi.org/10.1007/978-1-4939-9173-0_9)
 [TSEBRA](https://github.com/Gaius-Augustus/TSEBRA) | merge annotations | [Gabriel et al., 2021](https://doi.org/10.1186/s12859-021-04482-0)
 [tRNAscan-SE](http://lowelab.ucsc.edu/tRNAscan-SE/) | tRNAs, rRNAs | [Chan et al., 2021](https://doi.org/10.1093/nar/gkab688)
-BUSCO
+[BUSCO](https://busco.ezlab.org/) | assembly/annotation completeness check | [Manni et al., 2021](https://doi.org/10.1002/cpz1.323)
 
 ## Comparative genomics
 
