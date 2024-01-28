@@ -7,11 +7,12 @@ A large number of tools is available for various tasks in plant genomics. This r
 
 ## Handling reads
 
-ONT basecalling: guppy
-
-Quality control: [fastQC](https://github.com/s-andrews/FastQC), [LongQC](https://github.com/yfukasawa/LongQC)
-
-Trimming long reads: [Filtlong](https://github.com/rrwick/Filtlong)
+ToolName | Comments | Reference
+--- | --- | ---
+guppy | ONT basecalling | ONT
+[fastQC](https://github.com/s-andrews/FastQC) | Quality control | FastQC GitHub repository
+[LongQC](https://github.com/yfukasawa/LongQC) | Quality control | [Fukasawa et al., 2020](https://doi.org/10.1534/g3.119.400864)
+[Filtlong](https://github.com/rrwick/Filtlong) | Trimming long reads | Filtlong GitHub repository
 
 
 ## Genome sequence assembly
