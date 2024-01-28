@@ -108,6 +108,9 @@ ToolName | Comments | Reference
 
 
 ## Coexpression analyses
+
+ToolName | Comments | Reference
+--- | --- | ---
 [fastq-dump](https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump) | FASTQ downloads | NCBI
 [kallisto](https://github.com/pachterlab/kallisto) | gene expression quantification | [Bray et al., 2016](https://doi.org/10.1038/nbt.3519)
 [WGCNA](https://cran.r-project.org/web/packages/WGCNA/index.html) | coexpression analysis | [Langfelder & Horvath, 2008](https://doi.org/10.1186/1471-2105-9-559)
@@ -116,18 +119,24 @@ ToolName | Comments | Reference
 
 
 ## Phylogenetic analyses
-MAFFT
-MUSCLE
-IQ-TREE2
-FastTree
-RAxML-NG
-SHOOT
-iTOL
-JustOrthologs
-SwiftOrtho
+
+ToolName | Comments | Reference
+--- | --- | ---
+[MAFFT]() | | 
+[MUSCLE]() | | 
+[IQ-TREE2]() | | 
+[FastTree]() | | 
+[RAxML-NG]() | | 
+[SHOOT]() | | 
+[iTOL]() | | 
+[JustOrthologs]() | | 
+[SwiftOrtho]() | | 
 
 
 ## Helpful databases
+
+ToolName | Comments | Reference
+--- | --- | ---
 jbrowse
 gbrowse
 TAIR
