@@ -99,22 +99,13 @@ ToolName | Comments | Reference
 [Mercator](https://www.plabipd.de/mercator_main.html) | universal functional annotation | [Lohse et al., 2014](https://doi.org/10.1111/pce.12231)
 [BLAST2GO](https://www.blast2go.com/) | universal functional annotation | [Conesa et al., 2005](https://doi.org/10.1093/bioinformatics/bti610)
 [KEGG Mapper](https://www.genome.jp/kegg/mapper/) | KEGG ID assignment | [Kanehisa & Sato, 2020](https://doi.org/10.1002/pro.3711)
+[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) | sequence comparison | [Altschul et al., 1990](https://doi.org/10.1016/s0022-2836(05)80360-2)
+[DIAMOND](https://github.com/bbuchfink/diamond) | | [Buchfink et al., 2015](https://doi.org/10.1038/nmeth.3176)
+[HMMER](http://hmmer.org/) | sequence comparison | [Finn et al., 2011](https://doi.org/10.1093%2Fnar%2Fgkr367)
+[KAAS](https://www.genome.jp/kegg/kaas/) | assigning KEGG IDs | [Moriya et al., 2007](https://doi.org/10.1093%2Fnar%2Fgkm321)
+[ENTAP](https://github.com/harta55/EnTAP) | - | [Hart et al., 2019](https://doi.org/10.1111/1755-0998.13106)
+[eggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper) | assigning eggNOG IDs | [Cantalapiedra et al., 2021](https://doi.org/10.1093/molbev/msab293)
 
-BLAST
-DIAMOND
-HMMER
-KAAS (Kegg)
-
-
-ENTAP
-eggNOG-mapper
-
-
-
-jbrowse
-gbrowse
-TAIR
-genome hubs generally
 
 ## Coexpression analyses
 fastq-dump
@@ -137,6 +128,10 @@ SwiftOrtho
 
 
 ## Helpful databases
+jbrowse
+gbrowse
+TAIR
+genome hubs generally
 Phytozome
 JGI Plant Gene Atlas
 SRA/ENA/DDBJ
