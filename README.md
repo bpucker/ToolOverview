@@ -65,6 +65,7 @@ TOGA | |
 
 ## Functional annotation
 
+KIPEs, MYB_annotator, bHLH_annotator, Mercator, InterProScan5, BLAST2GO, KeggMapper
 
 
 
