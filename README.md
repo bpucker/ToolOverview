@@ -108,11 +108,11 @@ ToolName | Comments | Reference
 
 
 ## Coexpression analyses
-fastq-dump
-kallisto
-WGCNA
-GENIE3
-dynGENIE3
+[fastq-dump](https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump) | FASTQ downloads | NCBI
+[kallisto]() | | 
+[WGCNA](https://cran.r-project.org/web/packages/WGCNA/index.html) | coexpression analysis | [Langfelder & Horvath, 2008](https://doi.org/10.1186/1471-2105-9-559)
+[GENIE3]() | coexpression analysis | [Huynh-Thu et al., 2010](https://doi.org/10.1371/journal.pone.0012776)
+[dynGENIE3]() | | 
 
 
 ## Phylogenetic analyses
