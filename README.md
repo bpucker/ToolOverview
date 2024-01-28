@@ -9,7 +9,7 @@ A large number of tools is available for various tasks in plant genomics. This r
 
 ToolName | Comments | Reference
 --- | --- | ---
-guppy | ONT basecalling | ONT
+guppy | ONT basecalling | [ONT](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/Guppy-protocol/v/gpb_2003_v1_revax_14dec2018/guppy-software-overview)
 [fastQC](https://github.com/s-andrews/FastQC) | quality control short reads | FastQC GitHub repository
 [LongQC](https://github.com/yfukasawa/LongQC) | quality control long reads | [Fukasawa et al., 2020](https://doi.org/10.1534/g3.119.400864)
 [Filtlong](https://github.com/rrwick/Filtlong) | trimming long reads | Filtlong GitHub repository
@@ -17,6 +17,15 @@ guppy | ONT basecalling | ONT
 
 
 ## Genome sequence assembly
+
+ToolName | Comments | Reference
+--- | --- | ---
+[HiCanu](https://github.com/marbl/canu) | long read assembler (resource intensive) | [Nurk et al., 2020](https://doi.org/10.1101%2Fgr.263566.120)
+[NextDenovo2](https://github.com/Nextomics/NextDenovo) | long read assembler | GitHub repository
+[Shasta](https://github.com/paoloshasta/shasta) | long read assembler (fast) | [Shafin et al., 2020](https://doi.org/10.1038/s41587-020-0503-6)
+[Flye]() | long read assembler (high memory requirements) | 
+[miniasm]() | long read assembler | 
+
 
 ## Repeat masking & annotation
 
