@@ -128,7 +128,7 @@ ToolName | Comments | Reference
 [FastTree](http://www.phylo.org/index.php/tools/fasttree_xsede.html) | phylogenetic tree construction | [Price et al., 2010](https://doi.org/10.1371%2Fjournal.pone.0009490)
 [RAxML-NG](https://github.com/amkozlov/raxml-ng) | phylogenetic tree construction | [Kozlov et al., 2019](https://doi.org/10.1093/bioinformatics/btz305)
 [SHOOT](https://www.shoot.bio/) | phylogenetic placement of sequence | [Emms & Kelly, 2022](https://doi.org/10.1186/s13059-022-02652-8)
-[iTOL]() | | 
+[iTOL](https://itol.embl.de/) | phylogenetic tree visualization | [Letunic & Bork, 2021](https://doi.org/10.1093/nar/gkab301)
 [JustOrthologs]() | | 
 [SwiftOrtho]() | | 
 
