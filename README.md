@@ -1,6 +1,6 @@
 # Plant Genomics Tool Overview
 
-A large number of tools is available for various tasks in plant genomics. This repository provides an overview about available (and recommended) tools in plant genomics. This is based on the experiences of the [Plant Biotechnology and Biotechnology](https://www.tu-braunschweig.de/en/ifp/pbb) research group at TU Braunschweig. If you are new to plant genomics, our ['Data Literacy in Plant Genomics'](https://doi.org/10.1515/jib-2023-0033) course might be of interest to you.
+Many tools are available for various tasks in plant genomics. Finding the right tool for a certain purpose can be a challenge. This repository provides an overview about available (and recommended) tools in plant genomics. This is based on the experiences of the [Plant Biotechnology and Biotechnology](https://www.tu-braunschweig.de/en/ifp/pbb) research group at TU Braunschweig. If you are new to plant genomics, our ['Data Literacy in Plant Genomics'](https://doi.org/10.1515/jib-2023-0033) course might be of interest to you.
 
 
 
@@ -16,6 +16,12 @@ guppy | ONT basecalling | [ONT](https://community.nanoporetech.com/docs/prepare/
 [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) | trimming short reads | [Bolger et al., 2014](https://doi.org/10.1093%2Fbioinformatics%2Fbtu170)
 
 
+## Genome size estimation
+MGSE
+GenomeScope
+findGSE
+
+
 ## Genome sequence assembly
 
 ToolName | Comments | Reference
@@ -25,7 +31,7 @@ ToolName | Comments | Reference
 [Shasta](https://github.com/paoloshasta/shasta) | long read assembler (fast) | [Shafin et al., 2020](https://doi.org/10.1038/s41587-020-0503-6)
 [Flye](https://github.com/fenderglass/Flye) | long read assembler (high memory requirements) | [Kolmogorov et al., 2019](https://doi.org/10.1038/s41587-019-0072-8)
 [miniasm](https://github.com/lh3/miniasm) | long read assembler | [Li, 2018](https://doi.org/10.1093/bioinformatics/btw152)
-
+QUOD
 
 ## Repeat masking & annotation
 
@@ -45,6 +51,10 @@ ToolName | Comments | Reference
 [minimap2](https://github.com/lh3/minimap2) | long read mapping | [Li, 2018](https://doi.org/10.1093/bioinformatics/bty191)
 
 
+## Variant calling and annotation
+SnpEff
+NAVIP
+
 ## Gene prediction
 
 ToolName | Comments | Reference
@@ -54,6 +64,7 @@ ToolName | Comments | Reference
 [GeMoMa](http://www.jstacs.de/index.php/GeMoMa) | protein coding gene prediction | [Keilwagen et al., 2019](https://doi.org/10.1007/978-1-4939-9173-0_9)
 [TSEBRA](https://github.com/Gaius-Augustus/TSEBRA) | merge annotations | [Gabriel et al., 2021](https://doi.org/10.1186/s12859-021-04482-0)
 [tRNAscan-SE](http://lowelab.ucsc.edu/tRNAscan-SE/) | tRNAs, rRNAs | [Chan et al., 2021](https://doi.org/10.1093/nar/gkab688)
+BUSCO
 
 ## Comparative genomics
 
@@ -75,6 +86,49 @@ ToolName | Comments | Reference
 [Mercator](https://www.plabipd.de/mercator_main.html) | universal functional annotation | [Lohse et al., 2014](https://doi.org/10.1111/pce.12231)
 [BLAST2GO](https://www.blast2go.com/) | universal functional annotation | [Conesa et al., 2005](https://doi.org/10.1093/bioinformatics/bti610)
 [KEGG Mapper](https://www.genome.jp/kegg/mapper/) | KEGG ID assignment | [Kanehisa & Sato, 2020](https://doi.org/10.1002/pro.3711)
+
+BLAST
+DIAMOND
+HMMER
+KAAS (Kegg)
+
+
+ENTAP
+eggNOG-mapper
+
+
+
+jbrowse
+gbrowse
+TAIR
+genome hubs generally
+
+## Coexpression analyses
+fastq-dump
+kallisto
+WGCNA
+GENIE3
+dynGENIE3
+
+
+## Phylogenetic analyses
+MAFFT
+MUSCLE
+IQ-TREE2
+FastTree
+RAxML-NG
+SHOOT
+iTOL
+JustOrthologs
+SwiftOrtho
+
+
+## Helpful databases
+Phytozome
+JGI Plant Gene Atlas
+SRA/ENA/DDBJ
+GEO
+OrthoDB
 
 
 
