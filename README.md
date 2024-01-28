@@ -57,6 +57,9 @@ ToolName | Comments | Reference
 
 
 ## Variant calling and annotation
+
+ToolName | Comments | Reference
+--- | --- | ---
 [BWA MEM](https://github.com/lh3/bwa) | short read mapping | [Li, 2013](https://doi.org/10.48550/arXiv.1303.3997)
 [GATK](https://gatk.broadinstitute.org/hc/en-us) | short read variant calling | [Van der Auwera GA & O'Connor BD., 2020](https://www.oreilly.com/library/view/genomics-in-the/9781491975183/)
 [SVIM2](https://github.com/eldariont/svim) | long read variant calling | [Heller & Vingron, 2019](https://doi.org/10.1093/bioinformatics/btz041)
