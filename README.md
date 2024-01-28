@@ -137,8 +137,8 @@ ToolName | Comments | Reference
 
 ToolName | Comments | Reference
 --- | --- | ---
-[jbrowse]() | | 
-[gbrowse]() | | 
+[jbrowse](https://jbrowse.org/jb2/) | genome browser | [Diesh et al., 2023](https://doi.org/10.1186/s13059-023-02914-z)
+[gbrowse](https://github.com/GMOD/GBrowse) | genome browser | [Stein, 2013](https://doi.org/10.1093%2Fbib%2Fbbt001)
 [TAIR]() | | 
 [Phytozome]() | | 
 [JGI Plant Gene Atlas]() | | 
