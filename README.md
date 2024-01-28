@@ -59,9 +59,9 @@ ToolName | Comments | Reference
 
 ToolName | Comments | Reference
 --- | --- | ---
-MCscan | | 
-TBtools-II | | 
-TOGA | | 
+[MCscan](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) | synteny analysis | [Wang et al., 2012](https://doi.org/10.1093%2Fnar%2Fgkr1293)
+[TBtools-II](https://github.com/CJ-Chen/TBtools-II) | comparative genomics | [Chen et al,. 2023](https://doi.org/10.1016/j.molp.2023.09.010)
+[TOGA](https://genome.senckenberg.de/) | synteny analysis | [Kirilenko et al., 2023](http://dx.doi.org/10.1126/science.abn3107)
 
 
 ## Functional annotation
