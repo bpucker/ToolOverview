@@ -17,6 +17,7 @@ guppy | ONT basecalling | [ONT](https://community.nanoporetech.com/docs/prepare/
 
 
 ## Genome size estimation
+
 ToolName | Comments | Reference
 --- | --- | ---
 [MGSE](https://github.com/bpucker/MGSE) | mapping-based | [Pucker, 2019](https://doi.org/10.1101/607390)
@@ -41,7 +42,7 @@ ToolName | Comments | Reference
 
 ToolName | Comments | Reference
 --- | --- | ---
-[RepeatMasker](https://github.com/rmhubley/RepeatMasker) | masking/annotating repeats; Repbase needed | Smit, AFA, Hubley, R & Green, P. RepeatMasker Open-4.0. 2013-2015 <http://www.repeatmasker.org>.
+[RepeatMasker](https://github.com/rmhubley/RepeatMasker) | masking/annotating repeats; Repbase needed | [Smit, et al., 2015](http://www.repeatmasker.org)
 [EDTA](https://github.com/oushujun/EDTA) | repeat annotation | [Ou et al., 2019](https://doi.org/10.1186/s13059-019-1905-y)
 panEDTA | pangenome repeat annotation | [Ou et al., 2022](https://doi.org/10.1101/2022.10.09.511471)
 
