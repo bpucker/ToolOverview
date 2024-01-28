@@ -137,16 +137,15 @@ ToolName | Comments | Reference
 
 ToolName | Comments | Reference
 --- | --- | ---
-jbrowse
-gbrowse
-TAIR
+[jbrowse]() | | 
+[gbrowse]() | | 
+[TAIR]() | | 
+[Phytozome]() | | 
+[JGI Plant Gene Atlas]() | | 
+[SRA]() | | 
+[GEO]() | | 
+[OrthoDB]() | | 
 genome hubs generally
-Phytozome
-JGI Plant Gene Atlas
-SRA/ENA/DDBJ
-GEO
-OrthoDB
-
 
 
 ## Further Reading
