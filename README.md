@@ -72,11 +72,9 @@ ToolName | Comments | Reference
 [KIPEs](https://github.com/bpucker/KIPEs) | biosynthesis pathway annotation | [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342)
 [MYB_annotator](https://github.com/bpucker/MYB_annotator) | R2R3-MYB annotation | [Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)
 [bHLH_annotator](https://github.com/bpucker/bHLH_annotator) | bHLH annotation | [Thoben & Pucker, 2023](https://doi.org/10.1186/s12864-023-09877-2)
-Mercator | --- | ---
-BLAST2GO | --- | ---
-KeggMapper | --- | ---
-
-
+[Mercator](https://www.plabipd.de/mercator_main.html) | universal functional annotation | [Lohse et al., 2014](https://doi.org/10.1111/pce.12231)
+[BLAST2GO](https://www.blast2go.com/) | universal functional annotation | [Conesa et al., 2005](https://doi.org/10.1093/bioinformatics/bti610)
+[KEGG Mapper](https://www.genome.jp/kegg/mapper/) | KEGG ID assignment | [Kanehisa & Sato, 2020](https://doi.org/10.1002/pro.3711)
 
 
 
