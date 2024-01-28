@@ -52,8 +52,8 @@ ToolName | Comments | Reference
 [BRAKER3](https://github.com/Gaius-Augustus/BRAKER) | protein coding gene prediction | [Gabriel et al., 2023](https://doi.org/10.1101/2023.06.10.544449)
 [Augustus](https://github.com/Gaius-Augustus/Augustus) | protein coding gene prediction | [Stanke et al., 2006](https://doi.org/10.1093/nar/gkl200)
 [GeMoMa](http://www.jstacs.de/index.php/GeMoMa) | protein coding gene prediction | [Keilwagen et al., 2019](https://doi.org/10.1007/978-1-4939-9173-0_9)
-[TSEBRA]() |  | 
-tRNA-scanSE2 |  | 
+[TSEBRA](https://github.com/Gaius-Augustus/TSEBRA) | merge annotations | [Gabriel et al., 2021](https://doi.org/10.1186/s12859-021-04482-0)
+[tRNAscan-SE](http://lowelab.ucsc.edu/tRNAscan-SE/) | tRNAs, rRNAs | [Chan et al., 2021](https://doi.org/10.1093/nar/gkab688)
 
 ## Comparative genomics
 
