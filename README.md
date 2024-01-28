@@ -66,7 +66,15 @@ ToolName | Comments | Reference
 
 ## Functional annotation
 
-KIPEs, MYB_annotator, bHLH_annotator, Mercator, InterProScan5, BLAST2GO, KeggMapper
+ToolName | Comments | Reference
+--- | --- | ---
+[InterProScan5](https://github.com/ebi-pf-team/interproscan) | universal functional annotation | [Jones et al., 2014](https://doi.org/10.1093/bioinformatics/btu031)
+[KIPEs](https://github.com/bpucker/KIPEs) | biosynthesis pathway annotation | [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342)
+[MYB_annotator](https://github.com/bpucker/MYB_annotator) | R2R3-MYB annotation | [Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)
+[bHLH_annotator](https://github.com/bpucker/bHLH_annotator) | bHLH annotation | [Thoben & Pucker, 2023](https://doi.org/10.1186/s12864-023-09877-2)
+Mercator | --- | ---
+BLAST2GO | --- | ---
+KeggMapper | --- | ---
 
 
 
