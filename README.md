@@ -153,12 +153,11 @@ ToolName | Comments | Reference
 [Banana Genome Hub](https://banana-genome-hub.southgreen.fr/) | Musa database | [Droc et al., 2022](https://doi.org/10.1093%2Fhr%2Fuhac221)
 [Coffee Genome Hub](https://coffee-genome-hub.southgreen.fr/) | Coffea database | [Dereeper et al., 2015](https://doi.org/10.1093/nar/gku1108)
 [Sol Genomics Network](https://solgenomics.net/) | Solanaceae database | [Fernandez-Pozo et al., 2014](https://doi.org/10.1093/nar/gku1195)
-[Cassava Genome Hub](https://www.southgreen.fr/content/cassava-genome-hub-0) | Cassava database | 
-[Cocoa Genome Hub](https://www.southgreen.fr/content/cocoa-genome-hub) | Cacao database | [Argout et al., 2017](http://dx.doi.org/10.1186/s12864-017-4120-9)
-[Grass Genome Hub](https://www.southgreen.fr/content/grass-genome-hub) |  | 
-[Rice Genome Hub](https://www.southgreen.fr/content/rice-genome-hub) |  | 
-[Sugarcane Genome Hub](https://www.southgreen.fr/content/sugarcane-genome-hub) |  | 
-
+[Cassava Genome Hub](https://www.southgreen.fr/content/cassava-genome-hub-0) | Cassava database | (offline?)
+[Cocoa Genome Hub](https://cocoa-genome-hub.southgreen.fr/) | Cacao database | [Argout et al., 2017](http://dx.doi.org/10.1186/s12864-017-4120-9)
+[Grass Genome Hub](https://grass-genome-hub.southgreen.fr/) | Grass database | website
+[Rice Genome Hub](https://rice-genome-hub.southgreen.fr/) | Rice database | website
+[Sugarcane Genome Hub](https://sugarcane-genome.cirad.fr/) | Sugarcane database | [Garsmeur et al., 2018](https://doi.org/10.1038/s41467-018-05051-5)
 
 
 ## Further Reading
