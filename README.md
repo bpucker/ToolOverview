@@ -152,7 +152,7 @@ ToolName | Comments | Reference
 [TAIR](https://www.arabidopsis.org/) | Arabidopsis database | [Berardini et al., 2015](https://doi.org/10.1002/dvg.22877)
 [Banana Genome Hub](https://banana-genome-hub.southgreen.fr/) | Musa database | [Droc et al., 2022](https://doi.org/10.1093%2Fhr%2Fuhac221)
 [Coffee Genome Hub](https://coffee-genome-hub.southgreen.fr/) | Coffea database | [Dereeper et al., 2015](https://doi.org/10.1093/nar/gku1108)
-sol genomics network
+[Sol Genomics Network](https://solgenomics.net/) | Solanaceae database | [Fernandez-Pozo et al., 2014](https://doi.org/10.1093/nar/gku1195)
 
 
 ## Further Reading
