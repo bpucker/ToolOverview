@@ -36,6 +36,7 @@ ToolName | Comments | Reference
 [Flye](https://github.com/fenderglass/Flye) | long read assembler (high memory requirements) | [Kolmogorov et al., 2019](https://doi.org/10.1038/s41587-019-0072-8)
 [miniasm](https://github.com/lh3/miniasm) | long read assembler | [Li, 2018](https://doi.org/10.1093/bioinformatics/btw152)
 [QUAST](https://github.com/ablab/quast) | assembly statistics calculation | [Gurevich et al., 2013](https://doi.org/10.1093%2Fbioinformatics%2Fbtt086)
+[Merqury](https://github.com/marbl/merqury) | assembly statistics calculation | [Rhie et al., 2020](https://doi.org/10.1186/s13059-020-02134-9)
 
 
 ## Repeat masking & annotation
