@@ -132,6 +132,7 @@ ToolName | Comments | Reference
 [iTOL](https://itol.embl.de/) | phylogenetic tree visualization | [Letunic & Bork, 2021](https://doi.org/10.1093/nar/gkab301)
 [JustOrthologs](https://github.com/ridgelab/JustOrthologs) | ortholog identification | [Miller et al., 2019](https://doi.org/10.1093/bioinformatics/bty669)
 [SwiftOrtho](https://github.com/Rinoahu/SwiftOrtho) | ortholog identification | [Hu & Friedberg, 2019](https://doi.org/10.1093/gigascience/giz118)
+[FastOMA](https://github.com/DessimozLab/FastOMA/) | ortholog identification | [Majidian et al., 2024](https://doi.org/10.1101/2024.01.29.577392)
 
 
 ## Helpful databases
