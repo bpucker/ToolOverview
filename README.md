@@ -1,6 +1,8 @@
+Please find the latest version of this repository [**here**](https://github.com/PuckerLab/FunctionalAnnotation).
+
 # Plant Genomics Tool Overview
 
-Many tools are available for various tasks in plant genomics. Finding the right tool for a certain purpose can be challenging. This repository provides an overview of available (and recommended) tools in plant genomics. This repository combines the experiences of the [Plant Biotechnology and Biotechnology](https://www.tu-braunschweig.de/en/ifp/pbb) research group at TU Braunschweig. If you are new to plant genomics, our ['Data Literacy in Plant Genomics'](https://doi.org/10.1515/jib-2023-0033) course might be of interest to you.
+Many tools are available for various tasks in plant genomics. Finding the right tool for a certain purpose can be challenging. This repository provides an overview of available (and recommended) tools in plant genomics. This repository combines the experiences of the [Plant Biotechnology and Biotechnology](https://www.pbb.uni-bonn.de) research group at the University of Bonn. If you are new to plant genomics, our ['Data Literacy in Plant Genomics'](https://doi.org/10.1515/jib-2023-0033) course might be of interest to you.
 
 
 
