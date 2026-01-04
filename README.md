@@ -170,4 +170,4 @@ There are also specific collection of tools for particular purposes:
 [Long-Read-Tools](https://long-read-tools.org/)
 
 
-If you have questions about plant genomics that were not answered by any of these resources, please feel free to get in touch with the Plant Biotechnology and Biotechnology research group at TU Braunschweig.
+If you have questions about plant genomics that were not answered by any of these resources, please feel free to get in touch with the Plant Biotechnology and Biotechnology research group at the University of Bonn.
